@@ -16,64 +16,65 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Njabulo Bhendane
+- **Date:** 17 May 2024
+- **Current Role/Position:** Client service consultant
+- **Field of Interest:** Mobile app development 
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - List your current skills and areas of expertise. Communication skills, Creativive. I believe I have a good grasp of HTMl and CSS
+    - Identify skills you need to develop or improve. Stress management, task management
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Describe your key interests related to your career. Self managed, collaborating and problem solving
+    - What values are important to you in a work environment? Accountability, team work, support 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - List the industries or roles you have researched. Full stack developer, Mobile app developer, Web developer, video game developer
+    - Note any particular areas that piqued your interest. App development  
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Reflect on how these industries/roles align with your skills, interests, and values.  The roles allow for creativity, collaboration and constant learaning. Each person in the team is accountable for delivering detailed oriented work
+   
+    - Identify any gaps or areas for further exploration. Learning other coding languages and Framwork like React and Python
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    - List your specific, measurable, achievable, relevant, and time-bound goals. 1. Complete coding course, Learn more about different industries and opportunities of interest to dwell in and grow in. 2. Learn more coding languages and frameworks  
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Outline your long-term career aspirations. Heading or managing a team withing the department I am in
+    - Describe how these align with your interests and skills. Being able to lead a lead a creative, innovative team that constantly challenges each other to do and be better.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal. Start by building my portfolio with independent projects that I will do. engage in community forums and meetings to learn from others in the same position as me and those who have much more experience.
+    - Include any resources or support required. Coaching one on ones to help navigate the industry 
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Describe the preparations or groundwork necessary for your long-term aspirations.  Once I have established a firm position within  the field I will be able to gauge what opportunities are available to further grow the poject, team or organization
+    - Consider additional skills, experiences, or qualifications needed. Study to be a full stack developer and a software engineer 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Identify potential obstacles or challenges in reaching your goals. Procrastination, time management , imposter syndrome
+    - Consider strategies to overcome these challenges. Constant practice and active learning, highlighting aspects that require further revision 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
+    - Highlight any opportunities you can leverage for career growth. Curiosity to learn more about the industry, practises and Local community. Attending networking events at codespace and locally,, joining forums to keep updated with what is going on in the field of programming 
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
